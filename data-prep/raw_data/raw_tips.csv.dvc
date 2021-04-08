@@ -1,0 +1,4 @@
+outs:
+- md5: 8c20599a510be1b5741b6e6ede82d84c
+  size: 2577
+  path: raw_tips.csv
